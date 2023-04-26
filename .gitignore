@@ -1,1 +1,5 @@
-node_modules
+<<<<<<< HEAD
+
+=======
+>>>>>>> master
+node_modules/*
